@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>Спасибо за заявку!</title>
-  <style>
     body {
       font-family: sans-serif;
       display: flex;
